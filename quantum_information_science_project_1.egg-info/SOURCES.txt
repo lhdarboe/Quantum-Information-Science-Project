@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+quantum_information_science_project_1.egg-info/PKG-INFO
+quantum_information_science_project_1.egg-info/SOURCES.txt
+quantum_information_science_project_1.egg-info/dependency_links.txt
+quantum_information_science_project_1.egg-info/requires.txt
+quantum_information_science_project_1.egg-info/top_level.txt
