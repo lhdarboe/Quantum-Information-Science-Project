@@ -11,5 +11,5 @@ dependencies = [
     "qutip>=5.2.0",
     "scipy>=1.16.1",
 ]
-project.urls
+[project.urls]
 Homepage = "https://github.com/yourusername/yourproject"
