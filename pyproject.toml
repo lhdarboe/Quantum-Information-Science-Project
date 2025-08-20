@@ -1,11 +1,13 @@
 [project]
 name = "quantum-information-science-project"
 version = "0.1.0"
-description = "Add your description here"
+description = "Simulates creation of GKP states using p-quadrature measurements in the breeding circuit using QuTiP"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
     "matplotlib>=3.10.5",
     "numexpr>=2.11.0",
     "numpy>=2.3.2",
+    "qutip>=5.2.0",
+    "scipy>=1.16.1",
 ]
